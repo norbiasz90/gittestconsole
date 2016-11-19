@@ -1,2 +1,2 @@
 # testowe reo
-to jest repo do nauki gita:)
+to jest repo do nauki gita:).
